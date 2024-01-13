@@ -6,5 +6,7 @@ def factorial(x):
         j *= i
     return j
 
+
 if __name__ == '__main__':
     print(factorial(int(input())))
+    
