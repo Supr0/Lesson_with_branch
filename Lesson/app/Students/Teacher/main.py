@@ -4,6 +4,6 @@ if __name__ == "__main__":
     # n1 = input("first number: ")
     # n2 = input("second number: ")
 
-    def sum(n1, n2):
+    def sum(self,n1, n2):
         return n1 + n2
 
